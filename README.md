@@ -1,3 +1,3 @@
-It uses Python's Pygames library
+Leverages Python's Pygames library
 
 Run main.py
